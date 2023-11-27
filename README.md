@@ -9,6 +9,6 @@ streamlit run dashboard.py
 https://ecommercedashboard12345.streamlit.app/
 
 # Cara run streamlit di localhost
-1. pilih file dashboard, dan buka cmd lalu tekan code .
+1. pilih file dashboard, dan buka cmd lalu ketik 'code .'
 2. selanjutnya run terminal dengan perintah 'streamlit run dashboard.py'
 3. maka akan tampil dashboar di localhost:8501
